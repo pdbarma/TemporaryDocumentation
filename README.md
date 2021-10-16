@@ -11,3 +11,4 @@
 > Comment: Objects appear whereever the 3D cursor is placed.
 > Toolbar Short cut : T
 > Add mesh: Any object to blended.
+>Its important to name things to remember, Also Name the groups/collections.
