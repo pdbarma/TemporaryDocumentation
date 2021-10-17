@@ -22,7 +22,7 @@
 17/10/2021  
 ### Making a glowing object.  
 - First create an object using add mesh/object.  
-- Then Change world's properties by changing the world color to black to view the glowing effect more properly.  
+- Then Change world's properties by changing the world color to black to view the glowing effect more efficiently.  
 - Then change the surface property to emission under the materials propeties and the desired color.  
 - Changing the render property to glow and then manipulating the settings of it.
 - Done
