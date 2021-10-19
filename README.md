@@ -16,6 +16,6 @@ Creator : Ton Roosendaal
  - Contacts : [Twitter](https://twitter.com/tonroosendaal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
 
  
-<img align="center" width=600px height=300px src="https://www.blendernation.com/wp-content/uploads/2018/01/blenderman-1-1.jpg" />  
+<img align="center" width=1120px height=480px src="https://www.blendernation.com/wp-content/uploads/2018/01/blenderman-1-1.jpg" />  
    
    
