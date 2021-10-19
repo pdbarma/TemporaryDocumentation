@@ -3,7 +3,7 @@
   
 <img align="right" width=100px height=100px src="https://user-images.githubusercontent.com/76054109/137766094-3aa226b6-ed3a-4a87-9acc-09a7c4bb528b.png" />
 
-### Website link : [Blender.org](https://www.blender.org/) 
+### Website : [Blender.org](https://www.blender.org/) 
   
 ### What is blender?
 
