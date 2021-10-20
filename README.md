@@ -11,7 +11,21 @@
   
 ---
   
-Creator : Ton Roosendaal  
+### blender for animations  
+  
+Blender is one of the go-to open-source software choices for animation. Surprisingly, it doesn’t take much to get started on creating simple character animations. Once you have a final 3D character model, you can bring it to life with the software’s numerous animation features and tools.
+
+For example, Blender’s rigging tools will help you to achieve the desired movements for your character. Poses can also be added and manipulated with the software’s pose editing features. Alternatively, you can use the Nonlinear Animation editor to create various independent movements.
+  
+---
+  
+  
+### blender for game development  
+  
+Blender is a free, open-source 3D content-creation suite, a powerful and flexible platform that allows you to build games and interactive applications such as architecture walk-throughs, science visualizations, experimental projects, and much more. 
+  
+---
+### Creator : Ton Roosendaal  
  - Biography : [Wikipedia](https://en.wikipedia.org/wiki/Ton_Roosendaal)  
  - Contacts : [Twitter](https://twitter.com/tonroosendaal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
 
