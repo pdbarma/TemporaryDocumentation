@@ -28,6 +28,14 @@ Blender is a free, open-source 3D content-creation suite, a powerful and flexibl
 ### Creator : Ton Roosendaal  
  - Biography : [Wikipedia](https://en.wikipedia.org/wiki/Ton_Roosendaal)  
  - Contacts : [Twitter](https://twitter.com/tonroosendaal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
+  
+### blender gsoc projects  
+  
+- [project 1](https://code.blender.org/2021/09/gsoc-roundup-episode-three-ahead-of-the-curve-on-the-cutting-edge/?utm_source=www-homepage)  
+- [project 2](https://code.blender.org/2021/09/gsoc-roundup-episode-two-editorial-endeavours/?utm_source=www-homepage)  
+- [project 3](https://code.blender.org/2021/09/gsoc-roundup-geometry-codes/?utm_source=www-homepage)
+  
+---
 
  
 <img align="center" width=1120px height=400px src="https://www.blendernation.com/wp-content/uploads/2018/01/blenderman-1-1.jpg" />  
