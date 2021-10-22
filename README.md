@@ -25,9 +25,6 @@ For example, Blender’s rigging tools will help you to achieve the desired move
 Blender is a free, open-source 3D content-creation suite, a powerful and flexible platform that allows you to build games and interactive applications such as architecture walk-throughs, science visualizations, experimental projects, and much more. 
   
 ---
-### Creator : Ton Roosendaal  
- - Biography : [Wikipedia](https://en.wikipedia.org/wiki/Ton_Roosendaal)  
- - Contacts : [Twitter](https://twitter.com/tonroosendaal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
   
 ### blender gsoc projects  
   
@@ -36,6 +33,13 @@ Blender is a free, open-source 3D content-creation suite, a powerful and flexibl
 - [project 3](https://code.blender.org/2021/09/gsoc-roundup-geometry-codes/?utm_source=www-homepage)
   
 ---
+
+---  
+  
+### blender Creator : Ton Roosendaal  
+ - Biography : [Wikipedia](https://en.wikipedia.org/wiki/Ton_Roosendaal)  
+ - Contacts : [Twitter](https://twitter.com/tonroosendaal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
+  
 
  
 <img align="center" width=1120px height=400px src="https://www.blendernation.com/wp-content/uploads/2018/01/blenderman-1-1.jpg" />  
