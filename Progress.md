@@ -1,10 +1,16 @@
 # NOTES  
   
-#### :warning: Warning Once a blender file is saved in the newer version of blender, It cannot be opened in the previous versions of blender anymore.  
+<h4 align="center"> Disclaimer : I have not included all the keybinds/the Shortcut keys, only the few repetitive & important ones are discussed below.</h4>  
+  
+ ---  
+   
+<h4 align="left"> manual link:https://blender.org/manual </h4>  
 
-<h4 align="center"> manual link:https://blender.org/manual </h4>  
-
-<h4 align="center"> For Developers link:https://www.blender.org/get-involved/developers/ </h4>  
+<h4 align="left"> For Developers link:https://www.blender.org/get-involved/developers/ </h4>  
+  
+---  
+  
+<h4 align="center">:warning: Warning Once a blender file is saved in the newer version of blender, It cannot be opened in the previous versions of blender anymore.</h4>   
   
 02/10/2021  
 - start by : moving objects, camera, light, check scene collections and other options on the home screen.  
@@ -25,4 +31,10 @@
 - Then Change world's properties by changing the world color to black to view the glowing effect more efficiently.  
 - Then change the surface property to emission under the materials propeties and the desired color.  
 - Changing the render property to glow and then manipulating the settings of it.
-- Done
+- Done  
+  
+---  
+  
+23/10/2021  
+- to reset the cursor back to origin(0,0,0) press : **Shift+S** and then select **Cursor to the world origins option**  
+- 
