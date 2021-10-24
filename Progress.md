@@ -37,4 +37,8 @@
   
 23/10/2021  
 - to reset the cursor back to origin(0,0,0) press : **Shift+S** and then select **Cursor to the world origins option**  
+  
+---  
+  
+24/10/2021  
 - 
