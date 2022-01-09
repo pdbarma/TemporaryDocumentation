@@ -40,5 +40,13 @@
   
 ---  
   
-2/11/2021  
-- 
+08/01/2022  
+- recaped>  
+
+09/01/2022  
+- on the left side below select box we have:  
+  - Cursor : This function turns on select mode where when selected by mouse left click it will select the cursor where new objects can be created/inserted in the world.  
+  - Move : This function turns on Move mode where the object selected can be moved specifically on it's x,y and z plane.  
+  - Rotate : This function turns on the Rotate mode where the object selected can be rotated along the anotated rotational axis.  
+  - Scale : 
+  - Transform :
