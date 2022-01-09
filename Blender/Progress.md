@@ -48,5 +48,6 @@
   - Cursor : This function turns on select mode where when selected by mouse left click it will select the cursor where new objects can be created/inserted in the world.  
   - Move : This function turns on Move mode where the object selected can be moved specifically on it's x,y and z plane.  
   - Rotate : This function turns on the Rotate mode where the object selected can be rotated along the anotated rotational axis.  
-  - Scale : 
-  - Transform :
+  - Scale : to scale the size of the selected object
+  - Transform : To change the size, location, rotation and more.
+- **Pro Tip?** : Always apply the changes done to the object by pressing **Left CTRL + A** and select the respecting changes to apply. This will apply the changes and transform the object into an entirely new object with the modified changes. 
