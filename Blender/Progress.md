@@ -75,10 +75,11 @@
 
 <h2> 23/01/2022 </h2>  
 <details><summary>Note:</summary>  
-<p>   
+<p>  
   
 - Donut Revision @Blenderguru  
-  - 
+  - Object Mode Shift A New Mesh UV sphere  
+  
 </details>
 </p>
 
