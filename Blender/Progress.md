@@ -76,6 +76,9 @@
 <h2> 23/01/2022 </h2>  
 <details><summary>Note:</summary>  
 <p>   
+  
+- Donut Revision @Blenderguru  
+  - 
 </details>
 </p>
 
@@ -83,7 +86,6 @@
 <h2>Template - </h2>  
 <details><summary>Note:</summary>  
 <p>   
-- DONUT COURSE 2nd TIME REVISION
 </details>
 </p>
 ```
