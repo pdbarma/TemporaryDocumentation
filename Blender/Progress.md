@@ -73,12 +73,13 @@
 </details>
 </p>
 
-<h2> 23/01/2022 </h2>  
+<h2> 08/02/2022 </h2>  
 <details><summary>Note:</summary>  
 <p>  
   
-- Donut Revision @Blenderguru  
-  - Object Mode Shift A New Mesh UV sphere  
+-  Building a staircase ver. 01. by duplicating the stairs and rotating it.
+  
+  
   
 </details>
 </p>
