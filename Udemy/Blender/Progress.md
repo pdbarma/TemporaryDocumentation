@@ -84,6 +84,15 @@
 </details>
 </p>
 
+<h2> 15/02/2022 </h2>  
+<details><summary>Note:</summary>  
+<p>   
+
+- created a brick well by dupicating, rotating and resizing the cube and plane mesh.
+
+</details>
+</p>
+
 ```
 <h2>Template - </h2>  
 <details><summary>Note:</summary>  
