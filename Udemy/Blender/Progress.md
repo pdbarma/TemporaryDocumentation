@@ -15,10 +15,11 @@
   
 
 
-<h2>02/10/2021</h2>  
+<h2>Beginners:</h2>  
 <details><summary>Starting out :</summary>  
 <p>   
 
+## 02/10/2021
 
 - start by : moving objects, camera, light, check scene collections and other options on the home screen.  
 - Comment: Objects appear whereever the 3D cursor is placed.  
@@ -28,17 +29,13 @@
 - Objects in the scene collection is arranged in alphabetic order.  
 - Using tab to switch between object and creation mode.
 - Using the different view modes like 3D mode, Solid mode etc.
-  
-</details>
-</p>
 
   
   
   
 
-<h2>17/10/2021</h2>  
-<details><summary>Making a glowing object - </summary>  
-<p>   
+## 17/10/2021  
+Making a glowing object -
 
 - First create an object using add mesh/object.  
 - Then Change world's properties by changing the world color to black to view the glowing effect more efficiently.  
@@ -46,21 +43,17 @@
 - Changing the render property to glow and then manipulating the settings of it.
 - Done  
 
-</details>
-</p>    
-  
 
-<h2>23/10/2021</h2>  
-<details><summary>Note:</summary>  
-<p>   
+## 23/10/2021  
+Note:  
+
   
 - to reset the cursor back to origin(0,0,0) press : **Shift+S** and then select **Cursor to the world origins option**  
-</details>
-</p>
 
-<h2>09/01/2022 </h2>  
-<details><summary>Note:</summary>  
-<p>  
+
+## 09/01/2022  
+Note 
+ 
  
 - on the left side below select box we have the toolbar namely:  
   - Cursor : This function turns on select mode where when selected by mouse left click it will select the cursor where new objects can be created/inserted in the world.  
@@ -70,28 +63,29 @@
   - Transform : To change the size, location, rotation and more.
 - **Pro Tip?** : Always apply the changes done to the object by pressing **Left CTRL + A** and select the respecting changes to apply. This will apply the changes and transform the object into an entirely new object with the modified changes. 
   
-</details>
-</p>
 
-<h2> 08/02/2022 </h2>  
-<details><summary>Note:</summary>  
-<p>  
-  
--  Building a staircase ver. 01. by duplicating the stairs and rotating it.
-  
-  
-  
-</details>
-</p>
 
-<h2> 15/02/2022 </h2>  
-<details><summary>Note:</summary>  
-<p>   
+## 08/02/2022 
+Note:  
+
+  
+-  Building a staircase ver. 01. by duplicating the stairs and rotating it.  
+![stair](https://user-images.githubusercontent.com/76054109/154503291-10032622-f1b3-413c-b230-3ddf413082fc.png)
+  
+  
+
+
+## 15/02/2022 
+Note:  
+
 
 - created a brick well by dupicating, rotating and resizing the cube and plane mesh.
+![well1](https://user-images.githubusercontent.com/76054109/154503478-8d5878ae-8b29-418f-8287-49371e26142f.png)
 
 </details>
 </p>
+  
+-----------------------------  
 
 ```
 <h2>Template - </h2>  
