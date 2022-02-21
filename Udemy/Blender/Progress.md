@@ -90,10 +90,3 @@ Note: coloring the well project
   
 -----------------------------  
 
-```
-<h2>Template - </h2>  
-<details><summary>Note:</summary>  
-<p>   
-</details>
-</p>
-```
