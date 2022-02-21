@@ -81,7 +81,7 @@ Note: created a brick well by dupicating, rotating and resizing the cube and pla
   
 ## 21/02/2022 
 Note: coloring the well project.
-- Ctrl + L : to link, add materials to the linked objects to apply to material properties on multiple objects at the same time.
+- Ctrl + L : command helps to link multiple objects which then can be used to change the material/other properties on selected objects at the same time.
 - Learning how to move around the camera/light by using the properties tab.  
 
 <img src="https://user-images.githubusercontent.com/76054109/155015681-6c5561b6-dcb7-4cc0-959f-0a8e8924a650.png" width="256" height="144" />  
