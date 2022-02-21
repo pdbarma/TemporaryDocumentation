@@ -51,7 +51,8 @@ p.s. - I learned from it. Note : Use the View Tab beside the edit file in order 
    - [x] Learned about "---" as the three - is enough for making a line partition.  
 
 - 19th November 2021 - Log Update :
-  - [x] Learned how to collapse a paragraph into a single bullet point/key point.  
-   
----
+  - [x] Learned how to collapse a paragraph into a single bullet point/key point or a dropdown menu.  
 
+
+- 22nd February 2022 - Log Update :
+  - [x] Revised the Markdown commands.
