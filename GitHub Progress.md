@@ -1,5 +1,7 @@
 # Updates of my daily progress  
   
+### GitHub Progression 99% complete.
+  
 <p align="center">
   <img width="280" height="250" src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif">
 </p>  
@@ -52,5 +54,4 @@ p.s. - I learned from it. Note : Use the View Tab beside the edit file in order 
   - [x] Learned how to collapse a paragraph into a single bullet point/key point.  
    
 ---
-  
-### GitHub Progression 96% complete.
+
