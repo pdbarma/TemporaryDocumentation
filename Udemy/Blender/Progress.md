@@ -81,6 +81,11 @@ Note:
 
 - created a brick well by dupicating, rotating and resizing the cube and plane mesh.
 ![well1](https://user-images.githubusercontent.com/76054109/154503478-8d5878ae-8b29-418f-8287-49371e26142f.png)
+  
+  
+## 21/02/2022 
+Note:  coloring the well project
+
 
 </details>
 </p>
