@@ -66,25 +66,23 @@ Note
 
 
 ## 08/02/2022 
-Note:  
+Note: Building a staircase ver. 01. by duplicating the stairs and rotating it.  
 
-  
--  Building a staircase ver. 01. by duplicating the stairs and rotating it.  
-![stair](https://user-images.githubusercontent.com/76054109/154503291-10032622-f1b3-413c-b230-3ddf413082fc.png)
-  
+<img src="https://user-images.githubusercontent.com/76054109/154503291-10032622-f1b3-413c-b230-3ddf413082fc.png" width="256" height="144" /> 
+ 
   
 
 
 ## 15/02/2022 
-Note:  
+Note: created a brick well by dupicating, rotating and resizing the cube and plane mesh.  
 
-
-- created a brick well by dupicating, rotating and resizing the cube and plane mesh.
-![well1](https://user-images.githubusercontent.com/76054109/154503478-8d5878ae-8b29-418f-8287-49371e26142f.png)
+<img src="https://user-images.githubusercontent.com/76054109/154503478-8d5878ae-8b29-418f-8287-49371e26142f.png" width="256" height="144" />
   
   
 ## 21/02/2022 
-Note:  coloring the well project
+Note: coloring the well project  
+
+<img src="https://user-images.githubusercontent.com/76054109/155015681-6c5561b6-dcb7-4cc0-959f-0a8e8924a650.png" width="256" height="144" />
 
 
 </details>
