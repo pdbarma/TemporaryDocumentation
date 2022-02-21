@@ -92,5 +92,6 @@ Note: coloring the well project.
 </details>
 </p>
   
+- [ ] Course completion/certification
 -----------------------------  
 
