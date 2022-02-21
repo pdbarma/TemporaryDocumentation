@@ -1,4 +1,4 @@
-# Updates of my daily progress  
+# Updates of my github progress  
   
 ### GitHub Progression 99% complete.
   
