@@ -84,13 +84,24 @@ Note: coloring the well project.
 - Ctrl + L : command helps to link multiple objects which then can be used to change the material/other properties on selected objects at the same time.
 - Learning how to move around the camera/light by using the properties tab.  
 
-<img src="https://user-images.githubusercontent.com/76054109/155015681-6c5561b6-dcb7-4cc0-959f-0a8e8924a650.png" width="256" height="144" />  
-
-<img src="https://user-images.githubusercontent.com/76054109/155018505-654bf849-5ae0-4cff-a505-a1cf3084351f.png" width="256" height="144" />
-
 
 ## 22/02/2022 
-Quiz - 5/5
+Quiz - 5/5 
+  
+## 23/02/2022  
+  
+Note: To start rendering images Press F12 key, and of which renders can be of two types - evee & cycles.
+- evee rendered wells  
+  
+  
+<img src="https://user-images.githubusercontent.com/76054109/155015681-6c5561b6-dcb7-4cc0-959f-0a8e8924a650.png" width="256" height="144" />  
+  
+<img src="https://user-images.githubusercontent.com/76054109/155018505-654bf849-5ae0-4cff-a505-a1cf3084351f.png" width="256" height="144" />  
+  
+  - Cycles rendered well
+  
+<img src="https://user-images.githubusercontent.com/76054109/155203908-91439163-2d81-4419-a728-87efdbad734c.png" width="256" height="144" />  
+
 
 </details>
 </p>
