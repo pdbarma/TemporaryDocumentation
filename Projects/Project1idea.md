@@ -1,4 +1,4 @@
-5V5 mmo battle
+5V5 moba battle
 Maps with traps and item respawn
 Black body characters : Male & female.
 Zombie based traps
