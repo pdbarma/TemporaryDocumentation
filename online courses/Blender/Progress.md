@@ -101,6 +101,10 @@ Note: To start rendering images Press F12 key, and of which renders can be of tw
   - Cycles rendered well
   
 <img src="https://user-images.githubusercontent.com/76054109/155203908-91439163-2d81-4419-a728-87efdbad734c.png" width="256" height="144" />  
+  
+## 25/02/2022  
+  
+Quiz 4/4
 
 
 </details>
