@@ -14,3 +14,17 @@ Zombie apocalypse has befallen onto the earth
 The greatest minds on earth has come up with the technology to project out our shadow and control them with our minds.
 Now it all comes to you who has this technology and you have to survive.
 @ShadowFamily
+
+
+Map, follow a moba pattern,
+Idea 1
+---
+  
+Fixed respawnable area/base where players have to defeat and collect as many resources as possible and built their base to survive a zombieswarm underway.
+
+
+Idea 2
+---
+  
+
+Fixed multiple respawnable area, players decide on where to form there
