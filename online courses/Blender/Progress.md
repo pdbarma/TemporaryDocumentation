@@ -104,7 +104,16 @@ Note: To start rendering images Press F12 key, and of which renders can be of tw
   
 ## 25/02/2022  
   
-Quiz 4/4
+Quiz 4/4  
+  
+## 17/03/2022  
+  
+- evee render rocket  
+<img src="https://user-images.githubusercontent.com/76054109/158678241-b03f324e-c269-4140-91e8-652f9414c9db.png" width="256" height="144" />  
+  
+  
+- cycles render rocket  
+<img src="https://user-images.githubusercontent.com/76054109/158678247-dc376a3c-1828-4ceb-b366-1297c79c652c.png" width="256" height="144" />
 
 
 </details>
