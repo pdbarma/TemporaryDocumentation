@@ -34,3 +34,17 @@ python course links:
 
 - [advanced](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc)
 
+
+## ok
+
+- BOOL
+- ARRAY
+- FLOAT
+- INT
+- VECTOR
+- STRING
+- START 
+- AWAKE
+- UPDATE
+- IF
+- FOR
