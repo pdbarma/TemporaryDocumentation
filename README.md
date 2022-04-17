@@ -35,8 +35,9 @@ python course links:
 - [advanced](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc)
 
 
-## ok
+## C#
 
+playlist : [tutorials point India](https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM)
 - BOOL
 - ARRAY
 - FLOAT
