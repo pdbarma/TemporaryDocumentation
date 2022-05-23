@@ -3,7 +3,6 @@
   
 ### Resources :  
 - MDN : [link_](https://developer.mozilla.org/en-US/)  
-- MDN HTML ELEMENT REF.: [link_](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
  
 
 <h2>Progress :</h2>  
@@ -26,6 +25,17 @@ Front end | Back end
   
   - js: verbs(how things are done(eg-maths))  
   
+---  
+  
+Some basic commands
+```
+<p> </p>: For a single paragraph.
+<b> </b>: Making elements bold.
+<h1> </h1>: header 1.
+```  
+  
+Library :  
+- MDN HTML ELEMENT REF.: [link_](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   
   
   
