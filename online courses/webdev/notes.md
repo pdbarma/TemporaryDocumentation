@@ -38,6 +38,22 @@ Library :
 - MDN HTML ELEMENT REF.: [link_](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   
   
+
+- A regular Html syntax :
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
   
 </details>
 </p>
