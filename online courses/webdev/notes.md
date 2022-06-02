@@ -88,6 +88,13 @@ using :
   <li> List No. 3</li>
   ....
 </ul>
+
+
+//to input a link we use
+<a href="link">name of the link</a>
+
+<a></a> is a anchor tag
+href= hyper text reference in short href
 ```
   
 </details>
