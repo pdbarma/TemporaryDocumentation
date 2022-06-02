@@ -55,6 +55,27 @@ Library :
 </html>
 ```
   
+
+- List Elements
+
+using :  
+  
+```html
+<ul> // for bullet points unlisted in short
+  <li> List No. 1</li>
+  <li> List No. 2</li>
+  <li> List No. 3</li>
+  ....
+</ul>
+
+<ol> // for numbered points ordered list in short
+  <li> List No. 1</li>
+  <li> List No. 2</li>
+  <li> List No. 3</li>
+  ....
+</ol>
+```
+  
 </details>
 </p>
 
