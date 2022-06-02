@@ -74,6 +74,18 @@ using :
   <li> List No. 3</li>
   ....
 </ol>
+
+
+//for making sub list elements we just make sub listing by :
+<ul> // for bullet points unlisted in short
+  <li> List No. 1</li>
+      <li> sub list 1</li>
+      <li> sub list 2</li>
+      <li> sub list 3</li>
+  <li> List No. 2</li>
+  <li> List No. 3</li>
+  ....
+</ul>
 ```
   
 </details>
