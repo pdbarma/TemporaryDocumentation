@@ -1,15 +1,14 @@
-# Web Dev
+# Beginners Web Dev
 
   
 ### Resources :  
-- MDN : [link_](https://developer.mozilla.org/en-US/)  
+- developer.mozilla.org : [MDN](https://developer.mozilla.org/en-US/)  
  
 
-<h2>Progress :</h2>  
-<details><summary>Introduction:</summary>  
-<p>   
+# Progress :  
+## Introduction:    
   
-In a webpage there exists  
+**In a webpage there exists**  
 Front end | Back end
 (Html,CSS,JS)
 
@@ -19,27 +18,27 @@ Front end | Back end
 
   
 - languages used in webdev :
-  - Html: nouns(what)  
+  - **Html**: nouns(what)  
   
-  - CSS:adjectives(describes html element's things on the page)  
+  - **CSS**:adjectives(describes html element's things on the page)  
   
-  - js: verbs(how things are done(eg-maths))  
+  - **js**: verbs(how things are done(eg-maths))  
   
----  
   
-Some basic commands
+Some basic commands :
 ```
 <p> </p>: For a single paragraph.
 <b> </b>: Making elements bold.
 <h1> </h1>: header 1.
 ```  
   
-Library :  
-- MDN HTML ELEMENT REF.: [link_](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+## Library :  
+  
+- MDN HTML ELEMENT REF.: [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   
   
 
-- A regular Html syntax :
+- **SIMPLE HTML SYNTAX** :
 ```
 <!DOCTYPE html>
 <html>
@@ -56,45 +55,73 @@ Library :
 ```
   
 
-- List Elements
+- Listing Elements
 
 using :  
   
 ```html
-<ul> // for bullet points unlisted in short
+// for bullet points unlisted in short  
+<ul>  
   <li> List No. 1</li>
   <li> List No. 2</li>
   <li> List No. 3</li>
-  ....
+  
 </ul>
 
-<ol> // for numbered points ordered list in short
+```  
+  
+```
+
+// for numbered points ordered list in short
+<ol>  
   <li> List No. 1</li>
   <li> List No. 2</li>
   <li> List No. 3</li>
-  ....
-</ol>
+  
+</ol>  
+  
+```  
 
 
-//for making sub list elements we just make sub listing by :
+```
+//for making sub list elements inside another list :
+
 <ul> // for bullet points unlisted in short
   <li> List No. 1</li>
           <ol>
+            //for bullet points of sub list section in unlisted form
             <li> sub list 1</li>
             <li> sub list 2</li>
             <li> sub list 3</li>
           </ol>
   <li> List No. 2</li>
   <li> List No. 3</li>
-  ....
+  
 </ul>
+```
 
-
-//to input a link we use
+- Link Input
+```
 <a href="link">name of the link</a>
 
 <a></a> is a anchor tag
 href= hyper text reference in short href
+```
+
+- Image Input
+```
+<img alt="name" src="link">name of the link</a>
+
+alt=The alt attribute specifies an alternate text for an area, if the image cannot be displayed.
+The alt attribute provides alternative information for an image if a user for some reason cannot view it
+(because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+```  
+  
+- Comments  
+  
+```
+<!-- comments are meant to be written here -->
+
 ```
   
 </details>
