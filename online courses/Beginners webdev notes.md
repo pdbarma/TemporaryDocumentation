@@ -5,8 +5,10 @@
 - developer.mozilla.org : [MDN](https://developer.mozilla.org/en-US/)  
  
 
-# Progress :  
-## Introduction:    
+<h2>Progress :</h2>  
+<details><summary>Introduction: </summary>  
+<p>   
+
   
 **In a webpage there exists**  
 Front end | Back end
@@ -124,6 +126,19 @@ The alt attribute provides alternative information for an image if a user for so
 
 ```
   
+</details>
+</p>
+
+---  
+  
+<details><summary>HTML Next Steps & Semantics:</summary>  
+<p>   
+
+### HTML 5 :
+
+- 
+
+
 </details>
 </p>
 
