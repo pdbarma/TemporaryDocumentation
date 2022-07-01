@@ -136,10 +136,17 @@ The alt attribute provides alternative information for an image if a user for so
 
 ### HTML 5 :
 
-- 
+- new version of html
+- The term HTML5 is essentially a buzzword that refers to a set of modern web technologies.
+This includes the HTML Living Standard, along with JavaScript APIs to enhance storage, multimedia, and hardware access.
+- [HTML Standards](https://html.spec.whatwg.org/#toc-introduction)
+
+
 
 
 </details>
 </p>
+
+---
 
 - [ ] course completed
