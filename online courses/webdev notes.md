@@ -148,6 +148,14 @@ This includes the HTML Living Standard, along with JavaScript APIs to enhance st
   - **What is a block element?**
     - HTML (Hypertext Markup Language) elements historically were categorized as either "block-level" elements or "inline-level" elements. Since this is a presentational characteristic it is nowadays specified by CSS in the Flow Layout. A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents, thereby creating a "block".
 
+ #### Block-level vs. inline
+There are a couple of key differences between block-level elements and inline elements:
+
+- Content model
+Generally, block-level elements may contain inline elements and (sometimes) other block-level elements. Inherent in this structural distinction is the idea that block elements create "larger" structures than inline elements.
+
+- Default formatting
+By default, block-level elements begin on new lines, but inline elements can start anywhere in a line.
 
 </details>
 </p>
