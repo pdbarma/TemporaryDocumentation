@@ -157,6 +157,8 @@ Generally, block-level elements may contain inline elements and (sometimes) othe
 - Default formatting
 By default, block-level elements begin on new lines, but inline elements can start anywhere in a line.
 
+- [Block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)-HTML | MDN
+
 </details>
 </p>
 
