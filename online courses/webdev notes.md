@@ -141,7 +141,12 @@ The alt attribute provides alternative information for an image if a user for so
 This includes the HTML Living Standard, along with JavaScript APIs to enhance storage, multimedia, and hardware access.
 - [HTML Standards](https://html.spec.whatwg.org/#toc-introduction)
 
+### BLOCK VS INFINITE LINE:DIV & SPAN :
 
+- Divs``` <div></div> ```are generic containers to group elements together.
+- It is a block level element.
+  - **What is a block element?**
+    - HTML (Hypertext Markup Language) elements historically were categorized as either "block-level" elements or "inline-level" elements. Since this is a presentational characteristic it is nowadays specified by CSS in the Flow Layout. A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents, thereby creating a "block".
 
 
 </details>
