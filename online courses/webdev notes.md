@@ -164,6 +164,12 @@ By default, block-level elements begin on new lines, but inline elements can sta
 - ```<br>``` : to insert a new break between two lines. The line on the left gets shifted to the next paragraph
 - ```<sup></sup>```: to create a supercript
 - ```<sup><a href=""></a></sup>``` : to insert a superscript with link
+
+### Entities/Entity codes
+  
+- An HTML entity is a piece of text ("string") that begins with an ampersand ```(&)``` and ends with a semicolon ```(;)``` .  
+Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces). You can also use them in place of other characters that are difficult to type with a standard keyboard.
+  
 </details>
 </p>
 
