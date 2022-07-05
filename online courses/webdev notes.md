@@ -162,7 +162,8 @@ By default, block-level elements begin on new lines, but inline elements can sta
 
 - <hr> : to insert a line
 - <br> : to insert a new break between two lines. The line on the left gets shifted to the next paragraph
-
+- <sup></sup>: to create a supercript
+- <sup><a href=""></a></sup> : to insert a superscript with link
 </details>
 </p>
 
