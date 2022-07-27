@@ -174,7 +174,8 @@ Entities are frequently used to display reserved characters (which would otherwi
 
 ### Semantics
 
-```<section>
+```
+<section>
 <article>
 <nav>
 <main>
