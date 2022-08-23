@@ -49,3 +49,50 @@ playlist : [tutorials point India](https://www.youtube.com/watch?v=MhdxhUgSpFw&l
 - UPDATE
 - IF
 - FOR
+
+
+The free alternatives are as follows...
+
+Photoshop
+- GIMP: https://www.gimp.org/
+
+- Krita: https://krita.org/en/
+
+- Photopea: https://www.photopea.com/
+
+
+Lightroom
+- Darktable: https://www.darktable.org/
+
+- RawTherapee: https://rawtherapee.com/
+
+
+Illustrator
+- Inkscape: https://inkscape.org/
+
+- Vectr: https://vectr.com/
+
+
+InDesign
+- Scribus: https://www.scribus.net/
+
+- Lucidoress: https://www.lucidpress.com/pages/
+
+
+Premiere Pro
+- Blender: https://www.blender.org/
+
+
+After Effects
+- Natron: https://natrongithub.github.io/
+
+
+Audition
+- Audacity: https://www.audacityteam.org/
+
+
+Dreamweaver
+- BlueGriffon: http://bluegriffon.org/
+
+
+
