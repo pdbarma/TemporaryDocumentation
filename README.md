@@ -95,4 +95,4 @@ Dreamweaver
 - BlueGriffon: http://bluegriffon.org/
 
 
-
+- how to delete a file opened in windows explorer:https://www.youtube.com/watch?v=WX2hx_DfigA
